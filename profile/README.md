@@ -1,4 +1,4 @@
-## COSC 58 / 258, Winter 2025
+## Dartmouth COSC 58 / 258, Winter 2025
 
 This organization will serve as a shared workspace for you to collaborate, and the instructors to give feedback, on your Yalnix projects.
 
